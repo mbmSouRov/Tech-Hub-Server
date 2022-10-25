@@ -16,7 +16,6 @@ app.get("/tech-categories", (req, res) => {
 
 app.get("/tech-categories/courseInfo/:id", (req, res) => {
   const mew = req.params.id;
-
   const courseInfo = categories.filter((x) => x.id === mew);
   res.send(courseInfo);
 });
