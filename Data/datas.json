@@ -4,8 +4,9 @@
     "name": "HTML",
     "phone": "1-770-736-8031 x56442",
     "website": "https://www.w3schools.com/html/",
+    "photoURL": "https://img.freepik.com/free-photo/design-html-web-design-template-concept_53876-120438.jpg?w=1060&t=st=1666707069~exp=1666707669~hmac=0e0eaa3b0bb766f2606f8d4673bfa4e1b4f6cb29ad95c4906c068b32ee15025d",
     "company": {
-      "name": "HTML",
+      "name": "COMPLETE WEB DEVELOPMENT HTML",
       "meaning": "Hyper Text Markup Language"
     },
     "price": 10000,
@@ -16,8 +17,9 @@
     "name": "CSS",
     "phone": "1-770-736-8031 x56442",
     "website": "https://www.w3schools.com/css/",
+    "photoURL": "https://www.oxfordwebstudio.com/user/pages/06.da-li-znate/sta-je-css/sta-je-css.png",
     "company": {
-      "name": "CSS",
+      "name": "COMPLETE WEB DEVELOPMENT CSS",
       "meaning": "Cascading Style Sheets"
     },
     "price": 12000,
@@ -27,9 +29,10 @@
     "id": "3",
     "name": "JS",
     "phone": "1-770-736-8031 x56442",
-    "website": "https://www.w3schools.com/html/",
+    "website": "https://www.w3schools.com/js/",
+    "photoURL": "https://img.freepik.com/free-vector/programmers-using-javascript-programming-language-computer-tiny-people-javascript-language-javascript-engine-js-web-development-concept-bright-vibrant-violet-isolated-illustration_335657-986.jpg?w=826&t=st=1666707247~exp=1666707847~hmac=1d794fbcd7a8f05843ffc889c3b7c8776595107ec01b3d0334fa22cb2a6a4ad2",
     "company": {
-      "name": "JS",
+      "name": "COMPLETE WEB DEVELOPMENT JS",
       "meaning": "JavaScript"
     },
     "price": 15000,
@@ -39,36 +42,39 @@
     "id": "4",
     "name": "ReactJS",
     "phone": "1-770-736-8031 x56442",
-    "website": "https://www.w3schools.com/html/",
+    "website": "https://reactjs.org/",
+    "photoURL": "https://teknotrait.com/wp-content/uploads/2016/07/All-about-react-JS.png",
     "company": {
-      "name": "HTML",
+      "name": "COMPLETE WEB DEVELOPMENT REACT JS",
       "meaning": "React Javascript Framework"
     },
     "price": 20000,
-    "feature": "HTML stands for HyperText Markup Language. It is a standard markup language for web page creation. It allows the creation and structure of sections, paragraphs, and links using HTML elements (the building blocks of a web page) such as tags and attributes. "
+    "feature": "React is a JavaScript library for building user interfaces. Learn what React is all about on our homepage or in the tutorial.React has been designed from the start for gradual adoption, and you can use as little or as much React as you need. Whether you want to get a taste of React, add some interactivity to a simple HTML page, or start a complex React-powered app, the links in this section will help you get started."
   },
   {
     "id": "5",
     "name": "Firebase",
     "phone": "1-770-736-8031 x56442",
-    "website": "https://www.w3schools.com/html/",
+    "website": "https://console.firebase.google.com/u/0/",
+    "photoURL": "https://miro.medium.com/max/1100/1*Ct4d5TpJjzSn52xaWcyNQA.png",
     "company": {
-      "name": "HTML",
-      "meaning": "Hyper Text Markup Language"
+      "name": "LEARN COMPLETE FIREBASE",
+      "meaning": "Build and ship apps on Android, iOS, the web, C++, and Unity"
     },
     "price": 22000,
-    "feature": "HTML stands for HyperText Markup Language. It is a standard markup language for web page creation. It allows the creation and structure of sections, paragraphs, and links using HTML elements (the building blocks of a web page) such as tags and attributes. "
+    "feature": "Give users a quick, intuitive sign-in process with Firebase Authentication.Allow users to sign in to your app with their Facebook, Twitter, Google, or GitHub account with less than 5 minutes of work.Track each step of your onboarding flow to improve the experience.Use Google Analytics for Firebase to log events at every step of your onboarding flow, create funnels to see where users ar dropping off, and use Remote Config to make changes to your app to see how it affects conversions."
   },
   {
     "id": "6",
     "name": "MongoDB",
     "phone": "1-770-736-8031 x56442",
     "website": "https://www.w3schools.com/html/",
+    "photoURL": "https://webimages.mongodb.com/_com_assets/cms/kuzt9r42or1fxvlq2-Meta_Generic.png",
     "company": {
-      "name": "HTML",
-      "meaning": "Hyper Text Markup Language"
+      "name": "MONGO-DB",
+      "meaning": " No SQL Database System"
     },
     "price": 25000,
-    "feature": "HTML stands for HyperText Markup Language. It is a standard markup language for web page creation. It allows the creation and structure of sections, paragraphs, and links using HTML elements (the building blocks of a web page) such as tags and attributes. "
+    "feature": "Get your ideas to market faster with a developer data platform built on the leading modern database. Support transactional, search, analytics, and mobile use cases while using a common query interface and the data model developers love."
   }
 ]
